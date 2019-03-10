@@ -1,0 +1,52 @@
+{
+  "cells": [
+    {
+      "title": "intro to React",
+      "image": "https://d2kw4a2fna7ik2.cloudfront.net/items/0f062x042C1a041T1o1x/Rectangle.png"
+    },
+    {
+      "title": "Basic Styling in CSS",
+      "image": "https://d2kw4a2fna7ik2.cloudfront.net/items/0f062x042C1a041T1o1x/Rectangle.png"
+    },
+    {
+      "title": "Interactions and Animations",
+      "image": "https://d2kw4a2fna7ik2.cloudfront.net/items/0f062x042C1a041T1o1x/Rectangle.png"
+    },
+    {
+      "title": "SVG Animation",
+      "image": "https://d2kw4a2fna7ik2.cloudfront.net/items/0f062x042C1a041T1o1x/Rectangle.png"
+    },
+    {
+      "title": "Components and Props",
+      "image": "https://d2kw4a2fna7ik2.cloudfront.net/items/0f062x042C1a041T1o1x/Rectangle.png"
+    },
+    {
+      "title": "States and Events",
+      "image": "https://d2kw4a2fna7ik2.cloudfront.net/items/0f062x042C1a041T1o1x/Rectangle.png"
+    },
+    {
+      "title": "Multiple Pages",
+      "image": "https://d2kw4a2fna7ik2.cloudfront.net/items/0f062x042C1a041T1o1x/Rectangle.png"
+    },
+    {
+      "title": "JSON Static Data",
+      "image": "https://d2kw4a2fna7ik2.cloudfront.net/items/0f062x042C1a041T1o1x/Rectangle.png"
+    },
+    {
+      "title": "Data with Contentful",
+      "image": "https://d2kw4a2fna7ik2.cloudfront.net/items/0f062x042C1a041T1o1x/Rectangle.png"
+    },
+    {
+      "title": "Contact form and Posting Data",
+      "image": "https://d2kw4a2fna7ik2.cloudfront.net/items/0f062x042C1a041T1o1x/Rectangle.png"
+    },
+    {
+      "title": "Payments with Stripe",
+      "image": "https://d2kw4a2fna7ik2.cloudfront.net/items/0f062x042C1a041T1o1x/Rectangle.png"
+    },
+    {
+      "title": "Publish to Netlify",
+      "image": "https://d2kw4a2fna7ik2.cloudfront.net/items/0f062x042C1a041T1o1x/Rectangle.png"
+    }
+  ]
+}
