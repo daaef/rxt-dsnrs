@@ -2,49 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="453d0263-127c-4b96-9649-938ba6d34728" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/Card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/Header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/logo-designcode.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/logo-figma.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/logo-framer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/logo-invision.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/logo-react.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/logo-sketch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/logo-studio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/logo-swift.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/logo-xcode.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/wallpaper.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/wallpaper2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/wallpaper3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/wallpaper4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Cell.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Section.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Wave.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staticData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rxt-dsnrs.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphql.config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphql.schema.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/gatsby-astronaut.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/gatsby-astronaut.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/gatsby-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/gatsby-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Styled.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Styled.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -64,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/src/assets/css/layout.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="212">
-              <caret line="38" column="69" lean-forward="true" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="69" />
+              <caret line="38" column="69" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -130,8 +88,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Styled.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="102" column="48" selection-start-line="102" selection-start-column="48" selection-end-line="102" selection-end-column="48" />
+            <state relative-caret-position="220">
+              <caret line="89" column="17" lean-forward="true" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -139,8 +97,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Footer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+            <state relative-caret-position="156">
+              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -163,7 +121,12 @@
     <findStrings>
       <find>Helmet</find>
       <find>cubic</find>
+      <find>tweet</find>
+      <find>text</find>
     </findStrings>
+    <dirStrings>
+      <dir>D:\MyPortfolio\rxt-dsnrs\src</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -188,12 +151,14 @@
         <option value="$PROJECT_DIR$/src/pages/index.js" />
         <option value="$PROJECT_DIR$/src/components/Footer.js" />
         <option value="$PROJECT_DIR$/src/components/layout.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/Styled.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="940" />
+    <option name="x" value="112" />
+    <option name="y" value="12" />
     <option name="width" value="987" />
     <option name="height" value="1087" />
   </component>
@@ -226,18 +191,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rxt-dsnrs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rxt-dsnrs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rxt-dsnrs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rxt-dsnrs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -298,15 +251,16 @@
       <workItem from="1552064826076" duration="7207000" />
       <workItem from="1552073020324" duration="6110000" />
       <workItem from="1552121352997" duration="8053000" />
-      <workItem from="1552152043642" duration="19018000" />
+      <workItem from="1552152043642" duration="20727000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40388000" />
+    <option name="totallyTimeSpent" value="42097000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="940" y="0" width="987" height="1087" extended-state="0" />
+    <frame x="112" y="12" width="987" height="1087" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.50053704" side_tool="true" weight="0.26968718" />
       <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49946293" visible="true" weight="0.26968718" />
@@ -315,7 +269,7 @@
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50053936" side_tool="true" weight="0.32975295" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" sideWeight="0.49946064" visible="true" weight="0.32975295" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" sideWeight="0.49946064" visible="true" weight="0.48442534" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.32975295" />
@@ -531,20 +485,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Footer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/css/layout.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
-          <caret line="38" column="69" lean-forward="true" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="69" />
+          <caret line="38" column="69" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="69" />
         </state>
       </provider>
     </entry>
@@ -555,10 +499,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Styled.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="102" column="48" selection-start-line="102" selection-start-column="48" selection-end-line="102" selection-end-column="48" />
+        <state relative-caret-position="220">
+          <caret line="89" column="17" lean-forward="true" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
         </state>
       </provider>
     </entry>

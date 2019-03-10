@@ -88,6 +88,7 @@ const Text = styled.p`
   font-weight: 600;
   max-width: 600px;
   margin: 0 auto;
+  text-align: center;
   color: #486791;
 `
 const Button = styled.button`
